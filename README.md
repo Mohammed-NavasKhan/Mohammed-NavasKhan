@@ -7,8 +7,7 @@
           applications.
         </p>
         <p>
-          I am proficient in the MERN stack (MongoDB, Express.js, React.js, and
-          Node.js Python, Flask API, Generative AI), React Native, Docker and constantly seeking to improve my
+          I am proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js), React Native, Python, Flask API, Generative AI, Docker and constantly seeking to improve my
           skills and stay ahead of the latest industry trends 🚀.
         </p>
         <p>
