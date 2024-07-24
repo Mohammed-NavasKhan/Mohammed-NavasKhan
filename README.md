@@ -1,5 +1,5 @@
  <p>
-          Assalamu Alaikum, Everyone, I am a <b>Software Engineer.</b>
+          Hello, Everyone, I am a <b>Software Engineer.</b>
         </p>
         <p>
           A highly motivated and ambitious self-taught web developer with a keen
